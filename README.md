@@ -1,9 +1,11 @@
+![Tún Tún's GitHub stats](https://github-readme-stats.vercel.app/api?username=vantuan0128&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vantuan0128&layout=pie&theme=vue-dark)](https://github.com/vantuan0128/github-readme-stats)
 
 <a href="https://github.com/vantuan0128/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=vantuan0128&show_icons=true&theme=vue-dark)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vantuan0128&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/vantuan0128/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=vantuan0128&layout=pie&theme=vue-dark)](https://github.com/vantuan0128/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vantuan0128&repo=convoychat" />
 </a>
 <!--
 **vantuan0128/vantuan0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
