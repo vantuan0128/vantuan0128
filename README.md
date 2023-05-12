@@ -1,6 +1,15 @@
+<div align="center">
+  
 ![Tún Tún's GitHub stats](https://github-readme-stats.vercel.app/api?username=vantuan0128&show_icons=true&theme=blueberry)
+</div>
 
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vantuan0128&layout=pie&theme=blueberry)](https://github.com/vantuan0128/github-readme-stats)
+  
+  </div>
+
+
 
 
 <!--
