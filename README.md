@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=vantuan0128&color=blue)
+
 <div align="center">
   
 ![Tún Tún's GitHub stats](https://github-readme-stats.vercel.app/api?username=vantuan0128&show_icons=true&theme=blueberry)
